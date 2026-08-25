@@ -7,7 +7,7 @@
     "title": "Update Required v2.2.1 🔴 New",
     "description": "We have released a brand new update for Swapy with exclusive premium features and bug fixes. Please download the latest version now to continue using the app.",
     "isForce": false,
-    "isExpired": true,
+    "isExpired": false,
     "expiryDate": "2026-01-07",
     "closeButtonText": "Cancel",
     "updateButtonText": "Get Update Now"
