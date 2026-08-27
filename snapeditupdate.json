@@ -1,14 +1,14 @@
 [
   {
-    "appName": "CapCut",
-    "packageName": "com.lemon.lvoverseas",
-    "versionCode": 19101600,
+    "appName": "SnapEdit",
+    "packageName": "snapedit.app.remove",
+    "versionCode": 449,
     "updateUrl": "https://t.me/sreditingzoneoffical",
-    "title": "Update Required v22.0.0 🔴 New",
-    "description": "We have released a brand new update for CapCut with exclusive premium features and bug fixes. Please download the latest version now to continue using the app.",
+    "title": "Update Required v7.7.4 🍎 New",
+    "description": "We have released a brand new update for SnapEdit with exclusive premium features and bug fixes. Please download the latest version now to continue using the app.",
     "isForce": false,
     "isExpired": false,
-    "expiryDate": "2030-01-07",
+    "expiryDate": "2026-12-31",
     "closeButtonText": "Cancel",
     "updateButtonText": "Get Update Now"
   }
